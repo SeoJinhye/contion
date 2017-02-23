@@ -9,8 +9,8 @@ if(a1 < a2< a3):
 if(a3 < a2 < a1):
 	print("Falling Down")
 
-if(a3 < a2 & a1 < a2):
+if(a3 < a2 and a1 < a2):
 	print("Over the mountain")
 
-if(a2 < a3 & a2< a1):
+if(a2 < a3 and a2< a1):
 	print("in the dog house")
